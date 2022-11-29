@@ -1,2 +1,2 @@
-# Lekcja7_test
+# Lesson 7_test
 1. change for feature
